@@ -6,6 +6,7 @@ The Raspberry Pi change a random movie file in the folder 'movies' when the TV i
 **WARNING: Dangerous voltage inside TV set! Be Careful!**
 
 1. **Demo Video**
+
 [![demo video](https://img.youtube.com/vi/1pNfiL1X1ZA/0.jpg)](https://www.youtube.com/watch?v=1pNfiL1X1ZA)
 
 1. **TV set:**
@@ -19,7 +20,7 @@ The tuning circuit use a potentiometer to variable the voltage to the TV tunner.
     ![Relay board](/images/relay-board-sch.png)
     
     2.2 - Level Shifter:
-    ![Level Shifter](/images/Level-Shifter-sch.jpg)
+    ![Level Shifter](/images/level-shifter-sch.jpg)
 
     2.3 - Regulator module:
     ![Regulator module](/images/regulator-sch.jpg)
