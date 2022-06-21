@@ -50,7 +50,7 @@ Put the Python script in auto start for the Raspberry Pi boot.
 5. **Hardware inside the battery compartment:**
 ![Hardware inside the battery compartment](/images/final.jpg)
 
-6. **Know problems and items for future improvements:**
+6. **Known problems and items for future improvements:**
     - Sometimes the TV show the mouse cursor or the Linux terminal. (problem)
     - Movies always starts from the beginning. (improvement)
     - Different channels (scifi, horror, cartoons, etc...)(improvement)
