@@ -31,7 +31,7 @@ The tuning circuit use a potentiometer to variable the voltage to the TV tunner.
     - Cut the tracks of the tuning potentiometer, isolated it and connect it to the Arduino board:
     ![Potentiometer tracks](/images/potentiometer.jpg)
     - Isolate the video/TV switch and connect the wires to the relay board:
-    ![Relay Board](/images/relay-board.jpg)
+    ![Relay Board](/images/Relay-board.jpg)
     - Get the 12V from the DC barrel connector.
     
 All the wires are send to the battery compartment.
