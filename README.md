@@ -55,7 +55,11 @@ Put the Python script in auto start for the Raspberry Pi boot.
     - Movies always starts from the beginning. (improvement)
     - Different channels (scifi, horror, cartoons, etc...)(improvement)
 
+7. **Contact:**
 
+Feel free to reach out to me on social media: @pakequis in any of them...
+
+You can also send me an email at pakequis (Gmail).
 
 
 
